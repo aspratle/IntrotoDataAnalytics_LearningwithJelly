@@ -16,7 +16,7 @@ That will open a new page, and you'll be given an option to select a new owner f
 2) CLONE your fork to your local computer
 To do this, navigate in your terminal to an appropriate folder. I recommend you have an overall 'Data_Analytics' folder either in your documents or on your desktop. Once you're in the right place, you'll need to input the following command, replacing '[yourusername]' with your Github account:
 
-git clone ;
+git clone https://github.com/aspratle/IntrotoDataAnalytics_LearningwithJelly.git;
 
 3) If you want to push your changes from your local to the forked version of the repo use these steps:
 
